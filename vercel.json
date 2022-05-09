@@ -1,5 +1,5 @@
 {
-  "name": "vpcapi",
+  "name": "ptotg",
   "version": 2,
   "routes": [
     {"src": "/(.*)","dest": "https://ptotg.xrabbitz.workers.dev/$1"}
