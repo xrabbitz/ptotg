@@ -2,6 +2,6 @@
   "name": "ptotg",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "https://ptotg.xrabbitz.workers.dev/$1"}
+    {"src": "/(.*)","dest": "https://api.telegram.org/$1"}
   ]
 }
